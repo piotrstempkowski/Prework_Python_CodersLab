@@ -1,0 +1,8 @@
+exercises:
+    '1_Typy danych': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: { pl: 'Zapisanie zmiennych' } }, { points: 1, criterion: { pl: 'Wyświetlenie zmiennych' } }], translations: { pl: '1_Typy danych' } }
+    '2_Wartości logiczne': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: { pl: 'Poprawnie wykonane polecenie' } }], translations: { pl: '2_Wartości logiczne' } }
+    3_Dodawanie: { max_points: 0, disabled: true, grading: [{ points: 1, criterion: { pl: 'Poprawnie wykonane polecenie' } }], translations: { pl: 3_Dodawanie } }
+    '4_Operacje matematyczne': { max_points: 0, disabled: true, grading: [{ points: 0.5, criterion: { pl: Dodawanie } }, { points: 0.5, criterion: { pl: Dzielenie } }, { points: 0.5, criterion: { pl: 'Wartość całkowita z dzielenia' } }, { points: 0.5, criterion: { pl: 'wyświetlenie zmiennych i typów' } }], translations: { pl: '4_Operacje matematyczne' } }
+    '5_Dodawanie elementów do listy': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: { pl: 'Zdefiniowanie pustej listy' } }, { points: 1, criterion: { pl: 'Dodanie elementów do listy' } }], translations: { pl: '5_Dodawanie elementów do listy' } }
+    '6_Lista liczb': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: { pl: 'Zdefiniowanie listy z zawartością' } }, { points: 1, criterion: { pl: 'Wypisanie przedostatniego elementu' } }], translations: { pl: '6_Lista liczb' } }
+    '7_Pobieranie elementów z listy': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: { pl: 'Wypisanie pierwszego elementu' } }, { points: 1, criterion: { pl: 'Wypisanie ostatniego elementu' } }], translations: { pl: '7_Pobieranie elementów z listy' } }
